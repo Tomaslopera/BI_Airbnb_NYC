@@ -1,4 +1,10 @@
-# NYC Airbnb | Tamara What-Why-How Framework
+# Análisis de Datos de Airbnb en Nueva York
+
+Este proyecto utiliza el **dataset público de Kaggle [NYC Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)**, el cual contiene información detallada sobre los listados de Airbnb en la ciudad de Nueva York.  
+
+El análisis se desarrolla siguiendo el marco conceptual **“What? Why? How?”** propuesto por **Tamara Munzner** en su libro *Visualization Analysis & Design* (2014).  
+
+En este proyecto, se parte del análisis exploratorio de los datos de Airbnb en NYC, definiendo las variables del dataset (**What?**), los objetivos analíticos de interés (**Why?**) y finalmente las visualizaciones que se desarrollarán en **Power BI** (**How?**) para mostrar los resultados.
 
 ## What?
 
